@@ -1,4 +1,4 @@
-# Gold_Analysis_DataScience
+# Gold Analysis DataScience
 analysis of the price of gold in relation to the increase in the monetary base.
 
 ## Ambiente virtual e Dependências:
@@ -16,6 +16,10 @@ Instale as dependências:
 ```
 pip install -r core/requirements.txt
 ```
+---
+## Fontes Dos Dados:
+- [M2](https://fred.stlouisfed.org/series/M2SL)
+- [Preço do ouro](https://nma.org/wp-content/uploads/2016/09/historic_gold_prices_1833_pres.pdf)
 
 ---
 Linkedin: <https://www.linkedin.com/in/samuel-barbosa-dev/> 
