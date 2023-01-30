@@ -20,7 +20,7 @@ pip install -r core/requirements.txt
 ## Fontes Dos Dados:
 - [M2](https://fred.stlouisfed.org/series/M2SL)
 - [Preço do ouro](https://nma.org/wp-content/uploads/2016/09/historic_gold_prices_1833_pres.pdf)
-
+- [Base Monetária Americana](https://fred.stlouisfed.org/series/BOGMBASE)
 ---
 Linkedin: <https://www.linkedin.com/in/samuel-barbosa-dev/> 
 
